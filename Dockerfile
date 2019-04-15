@@ -5,4 +5,5 @@ RUN pip install silx[full]  \
 	    fabio \
 	    h5py  \
 	    numpy \
-	    matplotlib
+	    matplotlib \
+	    h5glance
